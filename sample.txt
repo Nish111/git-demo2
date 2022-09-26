@@ -6,3 +6,5 @@ added in branch feature
 second commit in feature
 3rd commit in feature
 4th commit
+
+changes from feature
