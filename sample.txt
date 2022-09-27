@@ -12,5 +12,10 @@ new non conflict part vid 15
 
 changes from feature
 
+<<<<<<< Updated upstream
 after pushing tag
 
+=======
+
+feature branch stashing
+>>>>>>> Stashed changes
